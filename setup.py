@@ -7,8 +7,8 @@ setup(
     license='MIT',
     author="Tamas Nemes",
     author_email='guidewalk.geraet@gmail.com',
-    packages=find_packages('ezgraph'),
-    package_dir={'': 'ezgraph'},
+    packages=find_packages('src'),
+    package_dir={'': 'src'},
     url='https://github.com/Totemi1324/ezgraph/',
     keywords='graph network visualization',
     install_requires=[
